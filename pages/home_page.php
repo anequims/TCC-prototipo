@@ -67,7 +67,7 @@
                     <div class="col">
                         <div class="card shadow-lg" style="width: 272px; height: 381px;">
                             <img src="../img/cara.png" alt="" class="card-img">
-                            <div class="membros">
+                            <div class="membros text-center">
                                 <h1 class="nome">Victor</h1>
                                 <h2 class="sobrenome">Nadalini</h2>
                                 <p class="funcao">Faz-Tudo</p>

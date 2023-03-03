@@ -53,6 +53,7 @@
 }
 .card .membros{
     overflow: hidden;
+    margin-top: 120px;
 }
 .card:hover img{
     display: none;
